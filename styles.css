@@ -1,0 +1,49 @@
+body {
+  background-color: #0a0a22;
+  color: #ffffff;
+  font-family: sans-serif;
+}
+#logo {
+ max-width: 50%;
+ max-height: 50%;
+ display: block;
+}
+#question {
+ text-align: center; 
+}
+p {
+  text-align: center;
+}
+#definition {
+ display: block;
+ background-color: #00471b;
+ border-radius: 2px;
+
+}
+#color-block-one {
+  background-color: #ffff;
+  border-radius: 2px;
+  color:  #0a0a22;
+  text-align: center;
+}
+#check-btn {
+  background-color:#5a01a7;
+  color: #ffff;
+  border-radius: 10%;
+  min-height: 30px;
+  min-width: 80px;
+  border: none;
+  display: inline-block;
+}
+
+* {
+  margin-bottom: 10px;
+  padding: 5px;
+  box-sizing: border-box;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#text-input {
+  display: inline-block;
+}
